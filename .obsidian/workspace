@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game-Dev/Programming Design Patterns for Unity.md",
+            "file": "Creative Coding making visuals with javascript.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game-Dev/Programming Design Patterns for Unity.md",
+                "file": "Creative Coding making visuals with javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
   },
   "active": "41d66bf4f529f2f3",
   "lastOpenFiles": [
-    "Game-Dev/Programming Design Patterns for Unity.md",
-    "Game-Dev/The Art of Computer Game Design.md"
+    "Creative Coding making visuals with javascript.md",
+    "Game-Dev/The Art of Computer Game Design.md",
+    "Game-Dev/Programming Design Patterns for Unity.md"
   ]
 }

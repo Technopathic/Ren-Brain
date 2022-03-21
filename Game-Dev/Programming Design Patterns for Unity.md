@@ -113,4 +113,4 @@ public class PersistentObjectSpawner : MonoBehaviour
 
 ## Finite State Machines
 
-An enumeration of various states (instances of existence?) of being in the scene. For example a character can be in a crouching, standing, or jumping state. States can be transitioned between each other using functions (actions).
+An enumeration of various states (instances of existence?) of being in the scene. For example a character can be in a crouching, standing, or jumping state. States can be transitioned between each other using functions (actions). 
